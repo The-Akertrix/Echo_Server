@@ -1,5 +1,5 @@
 <h1>Echo Server (Node.js + EJS)</h1>
-    <p>This project is a part of task given by Kharagpur Open Source Society.  </p>
+    <p>This project is picked for self-learning purpose only.  </p>
     
 <h2>🚀 Features</h2>
     <ul>
